@@ -19,7 +19,7 @@ A aplicação permite converter valores entre diferentes moedas em tempo real, u
 - Java 17+
 - Biblioteca [Gson](https://github.com/google/gson) para tratamento de JSON
 - API [ExchangeRate API](https://www.exchangerate-api.com/)
-- IDE como IntelliJ IDEA ou Eclipse
+- IDE IntelliJ
 
 ## 📋 Funcionalidades
 
@@ -29,9 +29,3 @@ A aplicação permite converter valores entre diferentes moedas em tempo real, u
   - Dólar e Peso Colombiano (e vice-versa)
 - Escolha interativa via terminal
 - Atualização de taxas em tempo real via API
-
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/conversor-moedas-java.git
